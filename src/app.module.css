@@ -1,0 +1,29 @@
+.ethCom {
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 24px;
+}
+.p {
+    color: #00FFF8;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.eth {
+    height: 18px;
+    margin-right: 6.5px;
+
+}
+
+.p2 {
+    color: #8BACD9;
+    font-weight: 400;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
